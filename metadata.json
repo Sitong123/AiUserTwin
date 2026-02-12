@@ -1,0 +1,8 @@
+{
+  "name": "AIUserTwin",
+  "description": "The decentralized protocol for cognitive data. Forge, manage, and monetize your digital twin.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
